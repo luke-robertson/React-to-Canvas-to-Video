@@ -4,13 +4,9 @@ Turns React into a canvas element and allows downloading of the interactions int
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Clone and install, will auto download videos generated after 10 seconds, trigger for download inside App.jsx, can change to a button event etc
 
 ### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
 
 ```
 yarn install OR npm install
