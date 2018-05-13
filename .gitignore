@@ -5,9 +5,6 @@
 _ignore/
 dist/
 node_modules/
-videos/
-src/assets/silks
-videoTMP/
 
 # Folder config file #
 ######################
